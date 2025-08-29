@@ -171,3 +171,4 @@ cython_debug/
 .pypirc
 /experiment_info.json
 lgbm_model.pkl
+tfidf_vectorizer.pkl
